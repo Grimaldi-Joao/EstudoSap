@@ -10,13 +10,25 @@
 
 ### data Browser
 
-    determina a atualização manual pode ser realizada pela se16n ou sm30
+    Determina a atualização manual pode ser realizada pela se16n ou sm30
 
 ### Configuração tecnicas
 
 #### categoria de dados
-    ( especifica a utilização de tabela no dia a dia. se será de dados mestres,transacionais ou customizing)
-
+     
+     Especifica a utilização de tabela no dia a dia. se será de dados mestres,transacionais ou customizing
 
 #### categoria de tamanho
-    ( tem que dizer o tamanho da tabela, pois quando vc estora o taminho da tabela ela dobra)
+     
+     Tem que dizer o tamanho da tabela, pois quando vc estora o taminho da tabela ela dobra
+
+### Tabela ou tabela transparente
+    Mandante = é o client que está sendo conectado
+    a tabela tem um nome unico ex: so extites uma BUT000 se for denominada
+
+#### Atribudos
+    ![image](https://github.com/user-attachments/assets/25a28122-1573-4f38-a357-7401906a6863)
+
+
+
+     
