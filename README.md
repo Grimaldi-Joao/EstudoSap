@@ -26,9 +26,6 @@
     Mandante = é o client que está sendo conectado
     a tabela tem um nome unico ex: so extites uma BUT000 se for denominada
 
-#### Atribudos
-    ![image](https://github.com/user-attachments/assets/25a28122-1573-4f38-a357-7401906a6863)
-
 
 
      
